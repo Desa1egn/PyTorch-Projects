@@ -1,2 +1,2 @@
 # kaggle_notebooks
-Notebooks linked from kaggle 
+Notebooks linked from my kaggle account,
