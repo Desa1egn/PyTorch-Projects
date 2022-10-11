@@ -1,4 +1,4 @@
 # Pytorch Projects
 
-Pytorch project either from my kaggle account or other will be hosted inside this project folder.
+Pytorch project including from my kaggle account will be hosted inside this folder.
 
