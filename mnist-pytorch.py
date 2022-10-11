@@ -22,7 +22,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using {device} device")
 
 
-# IMPORT THE DATA (MNIST)
+# IMPORT THE DATA (MNIST FROM PYTOTCH DATASETS)
 
 train_set = datasets.MNIST(root="data", download=True, train=True, transform=ToTensor())
 data_loader = DataLoader(train_set, 32)
